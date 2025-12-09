@@ -1,0 +1,13 @@
+# Removing auto build dir
+build/
+
+# Removing LSP config
+compile_commands.json
+
+# Removing all
+*.o
+*.log
+
+# Removing cache
+.cache/
+results/
