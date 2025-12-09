@@ -71,7 +71,7 @@ No contexto do **Projeto Trainee 2025 – Gama Cube Design**.
       border-radius: 8px;
       border: none;
       cursor: pointer;
-      background-color: #6f42c1;
+      background-color: #2ea44f;
       color: white;
     ">
       Acessar Código do TT&C
