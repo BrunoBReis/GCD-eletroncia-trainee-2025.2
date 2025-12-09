@@ -60,3 +60,21 @@ Projeto desenvolvido por:
 
 No contexto do **Projeto Trainee 2025 – Gama Cube Design**.
 
+---
+
+<div align="center">
+  <a href="https://github.com/BrunoBReis/GCD-eletroncia-trainee-2025.2/tree/main/ttec" target="_blank">
+    <button style="
+      padding: 10px 20px;
+      font-size: 16px;
+      font-weight: bold;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      background-color: #6f42c1;
+      color: white;
+    ">
+      Acessar Código do TT&C
+    </button>
+  </a>
+</div>
