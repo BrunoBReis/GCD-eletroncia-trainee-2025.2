@@ -115,3 +115,22 @@ Projeto desenvolvido por:
 - **[Pedro Victor](https://github.com/pedroslrn)**
 
 No contexto do **Projeto Trainee 2025 – Gama Cube Design**.
+
+---
+
+<div align="center">
+  <a href="https://github.com/BrunoBReis/GCD-eletroncia-trainee-2025.2/blob/main/sensoriamento/src/main.cpp" target="_blank">
+    <button style="
+      padding: 10px 20px;
+      font-size: 16px;
+      font-weight: bold;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      background-color: #2ea44f;
+      color: white;
+    ">
+      Acessar Código do Sensoriamento
+    </button>
+  </a>
+</div>
